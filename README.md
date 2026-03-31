@@ -1,1 +1,1 @@
-w3Ghana - Caster application.
+w3Ghana - Caster Application.
